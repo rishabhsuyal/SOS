@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SOS/static/css/main.28f73ea8.css",
+    "main.js": "/SOS/static/js/main.7032cb4e.js",
+    "static/media/flash.png": "/SOS/static/media/flash.ad7cbbc61e3a094c478c.png",
+    "index.html": "/SOS/index.html",
+    "main.28f73ea8.css.map": "/SOS/static/css/main.28f73ea8.css.map",
+    "main.7032cb4e.js.map": "/SOS/static/js/main.7032cb4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f73ea8.css",
+    "static/js/main.7032cb4e.js"
+  ]
+}
