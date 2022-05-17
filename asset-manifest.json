@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/safehealth/static/css/main.28f73ea8.css",
-    "main.js": "/safehealth/static/js/main.a37627be.js",
+    "main.js": "/safehealth/static/js/main.307805f6.js",
     "static/media/flash.png": "/safehealth/static/media/flash.ad7cbbc61e3a094c478c.png",
     "index.html": "/safehealth/index.html",
     "main.28f73ea8.css.map": "/safehealth/static/css/main.28f73ea8.css.map",
-    "main.a37627be.js.map": "/safehealth/static/js/main.a37627be.js.map"
+    "main.307805f6.js.map": "/safehealth/static/js/main.307805f6.js.map"
   },
   "entrypoints": [
     "static/css/main.28f73ea8.css",
-    "static/js/main.a37627be.js"
+    "static/js/main.307805f6.js"
   ]
 }
