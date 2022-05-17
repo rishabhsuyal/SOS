@@ -33,6 +33,8 @@ app.post("/addHospital",(req,res)=>{
   newHospital.save().then( doc=>{ console.log(doc)} )
 })
 
-app.listen(3000,function(){
-  console.log("Server started at post 3000");
+const port=process.env.PORT || 3000;
+
+app.listen(port,function(){
+  console.log(`Server started at post ${port}`);
 });
